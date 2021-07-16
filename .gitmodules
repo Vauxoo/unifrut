@@ -1,0 +1,4 @@
+[submodule "unifrut"]
+	path = unifrut
+	url = git@git.vauxoo.com:Vauxoo/unifrut.git
+	branch = 14.0
