@@ -2,3 +2,11 @@
 	path = unifrut
 	url = git@git.vauxoo.com:Vauxoo/unifrut.git
 	branch = 14.0
+[submodule "edi-document"]
+	path = edi-document
+	url = git@git.vauxoo.com:vauxoo/edi-document.git
+	branch = 15.0
+[submodule "mexico-document"]
+	path = mexico-document
+	url = git@git.vauxoo.com:vauxoo/mexico-document.git
+	branch = 15.0
