@@ -1,7 +1,7 @@
 [submodule "unifrut"]
 	path = unifrut
 	url = git@git.vauxoo.com:Vauxoo/unifrut.git
-	branch = 14.0
+	branch = 15.0
 [submodule "edi-document"]
 	path = edi-document
 	url = git@git.vauxoo.com:vauxoo/edi-document.git
