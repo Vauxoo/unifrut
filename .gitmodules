@@ -14,3 +14,7 @@
 	path = mexico
 	url = git@git.vauxoo.com:vauxoo/mexico.git
 	branch = 15.0
+[submodule "credit-management"]
+	path = credit-management
+	url = git@git.vauxoo.com:vauxoo/credit-management.git
+	branch = 15.0
