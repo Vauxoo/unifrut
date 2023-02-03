@@ -22,3 +22,11 @@
 	path = account-payment-split
 	url = git@git.vauxoo.com:vauxoo/account-payment-split.git
 	branch = 15.0
+[submodule "gandalf"]
+	path = gandalf
+	url = git@git.vauxoo.com:vauxoo/gandalf.git
+	branch = 15.0
+[submodule "account_reconcile_partial"]
+	path = account_reconcile_partial
+	url = git@git.vauxoo.com:vauxoo/account_reconcile_partial.git
+	branch = 15.0
