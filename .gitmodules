@@ -30,3 +30,7 @@
 	path = addons-vauxoo
 	url = git@github.com:Vauxoo/addons-vauxoo.git
 	branch = 15.0
+[submodule "gandalf"]
+	path = gandalf
+	url = git@git.vauxoo.com:vauxoo/gandalf.git
+	branch = 15.0
