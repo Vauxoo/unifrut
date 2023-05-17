@@ -33,7 +33,7 @@
 [submodule "gandalf"]
 	path = gandalf
 	url = git@git.vauxoo.com:vauxoo/gandalf.git
-	branch = 15.0
+	branch = 15.0-arp
 [submodule "account-reconcile-partial"]
 	path = account-reconcile-partial
 	url = git@git.vauxoo.com:vauxoo/account-reconcile-partial.git
