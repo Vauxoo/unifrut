@@ -38,3 +38,6 @@
 	path = account-reconcile-partial
 	url = git@git.vauxoo.com:vauxoo/account-reconcile-partial.git
 	branch = 15.0
+[submodule "stock-tracking-fields"]
+	path = stock-tracking-fields
+	url = git@git.vauxoo.com:vauxoo/stock-tracking-fields.git
