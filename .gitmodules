@@ -41,3 +41,7 @@
 [submodule "stock-tracking-fields"]
 	path = stock-tracking-fields
 	url = git@git.vauxoo.com:vauxoo/stock-tracking-fields.git
+[submodule "account-invoicing"]
+	path = account-invoicing
+	url = git@github.com:Vauxoo/account-invoicing.git
+	branch = 15.0
