@@ -45,3 +45,7 @@
 	path = account-invoicing
 	url = git@github.com:Vauxoo/account-invoicing.git
 	branch = 15.0
+[submodule "l10n-mx-edi-legal-name"]
+	path = l10n-mx-edi-legal-name
+	url = git@git.vauxoo.com:mexico/l10n-mx-edi-legal-name.git
+	branch = 15.0
