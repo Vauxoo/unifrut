@@ -53,3 +53,7 @@
 	path = stock-psycho-account
 	url = git@git.vauxoo.com:vauxoo/stock-psycho-account.git
 	branch = 15.0
+[submodule "l10n-mx-reports-diot"]
+	path = l10n-mx-reports-diot
+	url = git@git.vauxoo.com:mexico/l10n-mx-reports-diot.git
+	branch = 15.0
