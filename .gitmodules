@@ -1,59 +1,52 @@
 [submodule "unifrut"]
 	path = unifrut
 	url = git@git.vauxoo.com:Vauxoo/unifrut.git
-	branch = 15.0
+	branch = 19.0-mig-unifut-isaako34-31-comments-atendidos
 [submodule "edi-document"]
 	path = edi-document
 	url = git@git.vauxoo.com:vauxoo/edi-document.git
-	branch = 15.0
+	branch = 19.0
 [submodule "mexico-document"]
 	path = mexico-document
 	url = git@git.vauxoo.com:vauxoo/mexico-document.git
-	branch = 15.0
-[submodule "mexico"]
-	path = mexico
-	url = git@git.vauxoo.com:vauxoo/mexico.git
-	branch = 15.0
+	branch = 19.0
 [submodule "credit-management"]
 	path = credit-management
 	url = git@git.vauxoo.com:vauxoo/credit-management.git
-	branch = 15.0
+	branch = 19.0
 [submodule "account-payment-split"]
 	path = account-payment-split
 	url = git@git.vauxoo.com:vauxoo/account-payment-split.git
-	branch = 15.0
+	branch = 19.0
 [submodule "stock-logistics-workflow"]
 	path = stock-logistics-workflow
 	url = git@github.com:OCA/stock-logistics-workflow.git
-	branch = 15.0
+	branch = 19.0
 [submodule "addons-vauxoo"]
 	path = addons-vauxoo
 	url = git@github.com:Vauxoo/addons-vauxoo.git
-	branch = 15.0
+	branch = 19.0
 [submodule "gandalf"]
 	path = gandalf
 	url = git@git.vauxoo.com:vauxoo/gandalf.git
-	branch = 15.0-arp
-[submodule "account-reconcile-partial"]
-	path = account-reconcile-partial
-	url = git@git.vauxoo.com:vauxoo/account-reconcile-partial.git
-	branch = 15.0
-[submodule "stock-tracking-fields"]
-	path = stock-tracking-fields
-	url = git@git.vauxoo.com:vauxoo/stock-tracking-fields.git
+	branch = 19.0
 [submodule "account-invoicing"]
 	path = account-invoicing
-	url = git@github.com:Vauxoo/account-invoicing.git
-	branch = 15.0
-[submodule "l10n-mx-edi-legal-name"]
-	path = l10n-mx-edi-legal-name
-	url = git@git.vauxoo.com:mexico/l10n-mx-edi-legal-name.git
-	branch = 15.0
+	url = git@github.com:OCA/account-invoicing.git
+	branch = 19.0
 [submodule "stock-psycho-account"]
 	path = stock-psycho-account
 	url = git@git.vauxoo.com:vauxoo/stock-psycho-account.git
-	branch = 15.0
-[submodule "l10n-mx-reports-diot"]
-	path = l10n-mx-reports-diot
-	url = git@git.vauxoo.com:mexico/l10n-mx-reports-diot.git
-	branch = 15.0
+	branch = 19.0
+[submodule "l10n-mx-edi-legal-name"]
+	path = l10n-mx-edi-legal-name
+	url = git@git.vauxoo.com:mexico/l10n-mx-edi-legal-name.git
+	branch = 19.0
+[submodule "l10n-mx-edi-cancellation"]
+	path = l10n-mx-edi-cancellation
+	url = git@git.vauxoo.com:mexico/l10n-mx-edi-cancellation.git
+	branch = 19.0
+[submodule "l10n-mx-edi-payment-split"]
+	path = l10n-mx-edi-payment-split
+	url = git@git.vauxoo.com:mexico/l10n-mx-edi-payment-split.git
+	branch = 19.0
