@@ -16,7 +16,7 @@
 	branch = 15.0
 [submodule "credit-management"]
 	path = credit-management
-	url = git@git.vauxoo.com:vauxoo/credit-management.git
+	url = git@git.vauxoo.com:vauxoo-dev/credit-management.git
 	branch = 15.0
 [submodule "account-payment-split"]
 	path = account-payment-split
